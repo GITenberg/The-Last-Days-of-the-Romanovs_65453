@@ -1,5 +1,5 @@
 _repo: The-Last-Days-of-the-Romanovs_65453
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Wilton, Robert, correspondent of The Times at Petrograd
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '53355'
     url: http://www.gutenberg.org/2009/agents/53355
+covers:
+- cover_type: archival
+  image_path: 65453-h/images/cover.jpg
 creator:
   author:
     agent_name: Sokolov, N. (Nikolai)
@@ -29,6 +32,8 @@ description: A compilation and translation of the evidence obtained in an invest
   by N. A. Sokoloff of the Kolchak government into the murder of Czar Nicholas II
   and his family, supplemented by the personal narrative of Robert Wilton. cf. Publisher's
   note.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65453#The-Last-Days-of-the-Romanovs
 gutenberg_issued: '2021-05-27'
 gutenberg_type: Text
 identifiers:
