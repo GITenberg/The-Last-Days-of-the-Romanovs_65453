@@ -1,0 +1,47 @@
+_repo: The-Last-Days-of-the-Romanovs_65453
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wilton, Robert, correspondent of The Times at Petrograd
+    gutenberg_agent_id: '53356'
+    url: http://www.gutenberg.org/2009/agents/53356
+  translator:
+    agent_name: Tel'berg, G. G. (Georgii Gustavovich)
+    aliases:
+    - Tel'berg, Georgii Gustavovich
+    - Telberg, George Gustav
+    deathdate: 1954
+    gutenberg_agent_id: '53355'
+    url: http://www.gutenberg.org/2009/agents/53355
+creator:
+  author:
+    agent_name: Sokolov, N. (Nikolai)
+    aliases:
+    - Sokolov, Nicholas A.
+    - Sokolov, Nikolai Alekseevich
+    - Sokoloff, Nicolas
+    - Соколов, Н. (Николай)
+    birthdate: 1882
+    deathdate: 1924
+    gutenberg_agent_id: '53335'
+    url: http://www.gutenberg.org/2009/agents/53335
+description: A compilation and translation of the evidence obtained in an investigation
+  by N. A. Sokoloff of the Kolchak government into the murder of Czar Nicholas II
+  and his family, supplemented by the personal narrative of Robert Wilton. cf. Publisher's
+  note.
+gutenberg_issued: '2021-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65453'
+  lccn: '20021942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Nicholas II, Emperor of Russia, 1868-1918'
+- !lcsh 'Romanov, House of'
+- GITenberg
+title: The Last Days of the Romanovs
+url: http://www.gutenberg.org/ebooks/65453
